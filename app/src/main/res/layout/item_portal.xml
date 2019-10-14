@@ -12,6 +12,7 @@
         android:layout_height="109dp"
         android:backgroundTint="#1F5A22"
         android:text="@string/hva_portal"
+        android:textAllCaps="false"
         android:textColor="@android:color/white"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
